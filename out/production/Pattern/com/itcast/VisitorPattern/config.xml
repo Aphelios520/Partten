@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<config>
+    <className>com.itcast.VisitorPattern.test1.FADepartment</className>
+    <className>com.itcast.VisitorPattern.test1.HRDepartment</className>
+</config>

@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<config>
+    <className>com.itcast.AbstractFactory.Test1.factory.SpringSkinFactory</className>
+    <className>com.itcast.AbstractFactory.Test1.factory.SummerSkinFactory</className>
+
+</config>

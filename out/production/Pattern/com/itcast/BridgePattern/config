@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<config>
+    <className>com.itcast.BridgePattern.test1.WindowsImpl</className>
+</config>

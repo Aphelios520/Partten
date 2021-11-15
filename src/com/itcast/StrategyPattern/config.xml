@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<config>
+   <className>com.itcast.StrategyPattern.test1.ChildrenDiscount</className>
+    <className>com.itcast.StrategyPattern.test1.StudentDiscount</className>
+    <className>com.itcast.StrategyPattern.test1.VIPDiscount</className>
+</config>

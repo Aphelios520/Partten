@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<congig>
+    <className>com.itcast.MethodFactory.DatabaseFactory</className>
+    <className>com.itcast.MethodFactory.FileFactory</className>
+</congig>

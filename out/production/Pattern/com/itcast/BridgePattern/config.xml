@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<config>
+    <className>com.itcast.BridgePattern.test1.WindowsImpl</className>
+    <className>com.itcast.BridgePattern.test1.GIFImage</className>
+    <className>com.itcast.BridgePattern.Text2.MysqlData</className>
+    <className>com.itcast.BridgePattern.Text2.PDFImage</className>
+</config>

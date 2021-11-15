@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<config>
+    <className>com.itcast.BuilderPattern.Test1.HeroActor</className>
+    <className>com.itcast.BuilderPattern.Test1.AngleActor</className>
+    <className>com.itcast.BuilderPattern.Test1.DevilActor</className>
+</config>
